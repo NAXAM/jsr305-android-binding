@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+    <metadata>
+        <!-- Required elements-->
+        <id>Naxam.Jsr305.Droid</id>
+        <version>2.0.1</version>
+        <authors>NAXAM CO.,LTD</authors>
+        <owners>NAXAM CO.,LTD</owners>
+        <requireLicenseAcceptance>false</requireLicenseAcceptance>
+        <title>Naxam - FindBugs for Android</title>
+        <summary>Xamarin.Android Binding Library - FindBugs</summary>
+        <description>Xamarin.Android Binding Library - FindBugs</description>
+        <releaseNotes>FindBugs v2.0.1</releaseNotes>
+        <iconUrl>http://findbugs.sourceforge.net/buggy-sm.png</iconUrl>
+        <licenseUrl>https://opensource.org/licenses/MIT</licenseUrl>
+        <projectUrl>https://github.com/NAXAM/jsr305-android-binding</projectUrl>
+        <copyright>Copyright (c) 2017 NAXAM</copyright>
+        <tags>Xamarin.Android, jsr305</tags>
+        <dependencies>
+            <!-- <dependency id="Xamarin.Android.Support.v7.AppCompat" version="25.4.0.2" /> -->
+        </dependencies>
+    </metadata>
+    <!-- Optional 'files' node -->
+    <files>
+        <file src="Naxam.Jsr305.Droid/bin/Release/Naxam.Jsr305.Droid.dll" target="lib/MonoAndroid10/Naxam.Jsr305.Droid.dll" />
+    </files>
+</package>
