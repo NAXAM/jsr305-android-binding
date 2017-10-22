@@ -3,14 +3,14 @@
     <metadata>
         <!-- Required elements-->
         <id>Naxam.Jsr305.Droid</id>
-        <version>2.0.1</version>
+        <version>3.0.2</version>
         <authors>NAXAM CO.,LTD</authors>
         <owners>NAXAM CO.,LTD</owners>
         <requireLicenseAcceptance>false</requireLicenseAcceptance>
         <title>Naxam - FindBugs for Android</title>
         <summary>Xamarin.Android Binding Library - FindBugs</summary>
         <description>Xamarin.Android Binding Library - FindBugs</description>
-        <releaseNotes>FindBugs v2.0.1</releaseNotes>
+        <releaseNotes>FindBugs v3.0.2</releaseNotes>
         <iconUrl>http://findbugs.sourceforge.net/buggy-sm.png</iconUrl>
         <licenseUrl>https://opensource.org/licenses/MIT</licenseUrl>
         <projectUrl>https://github.com/NAXAM/jsr305-android-binding</projectUrl>
